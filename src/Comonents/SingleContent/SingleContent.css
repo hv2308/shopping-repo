@@ -1,0 +1,22 @@
+.Tabs{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    border: 2px solid black;
+    border-radius: 10px;
+    align-items: center;
+    margin-bottom: 15px;
+}
+.desc{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 9px;
+    padding-top: 9px;
+}
+.descbutton{
+    width: 90%;
+    padding-bottom: 5px;
+}
+.descbutton{
+    margin-bottom: 10px;
+}
